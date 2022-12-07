@@ -9,6 +9,20 @@ Chinese users normally have problems fetching ***Install.1.ps1*** thus their att
 
 
 
+------
+
+#### Options:
+
+Podcast is on
+
+Won't disable Spotify auto-update
+
+Won't clear the cache
+
+Experimental features of SpotX are not included
+
+------
+
 
 
 ### Before the installation
