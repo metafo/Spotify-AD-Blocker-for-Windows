@@ -42,7 +42,7 @@ Chinese users normally have problems fetching ***Install.1.ps1*** thus their att
 
 ### How to install
 
-1. Download this repo as a zip file, decompress then switch to the destination output folder.![DownloadZIP_Instruction](C:\Users\AndyC\Downloads\Compressed\Spotify_AD-Blocker_for_Windows_August_23,_2022\DownloadZIP_Instruction.png)
+1. Download this repo as a zip file, decompress then switch to the destination output folder.![DownloadZIP_Instruction](DownloadZIP_Instruction.png)
 
 2. Run ***Install.bat*** then wait until it's finished.
 
